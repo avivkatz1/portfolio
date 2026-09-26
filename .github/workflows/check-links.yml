@@ -1,0 +1,21 @@
+# Checks every Markdown link in this repo weekly and on each push,
+# so the portfolio never shows a broken link to an employer.
+name: Check links
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: "0 14 * * 1"   # Mondays
+  workflow_dispatch:
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --exclude 'YOUR-USERNAME' './**/*.md'
+          fail: true

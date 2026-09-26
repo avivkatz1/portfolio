@@ -1,0 +1,52 @@
+# --- Secrets (never commit) ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets/
+
+# --- macOS / editors ---
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# --- Node / web ---
+node_modules/
+dist/
+build/
+.next/
+.vite/
+npm-debug.log*
+yarn-error.log*
+coverage/
+
+# --- Data & models (link or use Git LFS / DVC instead) ---
+data/raw/
+data/private/
+*.csv.gz
+*.parquet
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.onnx
+wandb/
+mlruns/
+
+# --- Coursework: keep course-provided datasets out ---
+coursework/**/data/
