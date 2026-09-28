@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+images/result_images/originals/
+images/result_images/validated/
+*.pyc
+
+# Temporary files
+house_final_*.jpg
+analysis_*.jpg
+
+# Keep these result directories for showcase
+!images/result_images/success_colorful/
+!images/result_images/failed/
+!images/pipeline_images/
+!images/slideshow/

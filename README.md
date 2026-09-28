@@ -3,24 +3,22 @@
 AI & software projects, plus my graduate work in the **M.S. in Artificial Intelligence** program at DePaul University.
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
-[![Links](https://github.com/avivkatz1/portfolio/actions/workflows/check-links.yml/badge.svg)](https://github.com/avivkatz1/portfolio/actions/workflows/check-links.yml)
+[![Links](https://github.com/YOUR-USERNAME/portfolio/actions/workflows/check-links.yml/badge.svg)](https://github.com/YOUR-USERNAME/portfolio/actions/workflows/check-links.yml)
 
 ## Start here
 
-| If you want to see… | Go to |
-| --- | --- |
-| Software I've built and deployed | [**Projects →**](projects/README.md) |
-| Graduate AI/ML coursework | [**Coursework →**](coursework/README.md) |
-| How I organize and document work | [Conventions](docs/CONVENTIONS.md) |
+| If you want to see…              | Go to                                    |
+| -------------------------------- | ---------------------------------------- |
+| Software I've built and deployed | [**Projects →**](projects/README.md)     |
+| Graduate AI/ML coursework        | [**Coursework →**](coursework/README.md) |
+| How I organize and document work | [Conventions](docs/CONVENTIONS.md)       |
 
 ## Featured
 
-- **[Register App](https://github.com/avivkatz1/register-app)** — in daily use at a high-school,
-  student-run coffee shop. React/Node/Express, with a coach dashboard for per-student accommodations and metrics.
-- **[Easy IEP](https://github.com/avivkatz1/easy-iep)** — helps special-ed teachers draft IEP reports,
-  with AI features for more natural-sounding writing.
-- **[Math Helper](https://github.com/avivkatz1/math-helper)** — math practice app with AI-driven
-  adaptive learning.
+- **[Register App](https://github.com/YOUR-USERNAME/register-app)** — in daily use at a high-school,
+  student-run coffee shop. React/Node, with a coach dashboard for per-student accommodations and metrics.
+- **[Sketch-3D Drawing Pipeline](https://github.com/YOUR-USERNAME/sketch-3d-pipeline)** — builds a 3D scene,
+  then renders it as a hand-drawn cartoon with SDXL + ControlNet + a custom character LoRA.
 
 ## Repository layout
 
@@ -36,7 +34,7 @@ portfolio/
 
 ## About me
 
-Former special education teacher (15 years) moving into AI. Profile: [github.com/avivkatz1](https://github.com/avivkatz1)
+Former special education teacher (15 years) moving into AI. Profile: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
 
 ## License
 

@@ -6,6 +6,7 @@ My own work from graduate courses: implementations, experiments, and write-ups.
 | --- | --- | --- | --- |
 | [DSC 445](DSC-445-machine-learning/) | Machine Learning I | [term] | [best assignment] |
 | [CSC 480](CSC-480-artificial-intelligence-1/) | Artificial Intelligence I | [term] | [best assignment] |
+| [CSC 481](CSC-481-intro-to-image-processing/) | Introduction to Image Processing | Winter 2025 | [Final project: finding houses in hand-drawn pictures](CSC-481-intro-to-image-processing/final-project/) — 93% best Dice |
 | [CSC 580](CSC-580-artificial-intelligence-2/) | Artificial Intelligence II | [term] | [best assignment] |
 | [CSC 483](CSC-483-applied-deep-learning/) | Applied Deep Learning | [term] | [best assignment] |
 | [SE 489](SE-489-mlops/) | Machine Learning Operations (MLOps) | [term] | [best assignment] |
